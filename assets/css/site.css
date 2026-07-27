@@ -21,5 +21,11 @@ header{position:fixed;z-index:50;left:0;right:0;top:0;background:rgba(255,255,25
 .work-shot figcaption{padding:18px 20px;color:var(--muted)}
 .work-shot figcaption strong{display:block;color:var(--deep);font-size:1.05rem;margin-bottom:4px}
 .gallery-note{border:2px dashed #aed7d3;border-radius:24px;padding:28px;display:flex;align-items:center;background:rgba(255,255,255,.62);color:var(--muted)}
+.project-group+.project-group{margin-top:76px;padding-top:70px;border-top:1px solid var(--line)}
+.project-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
+.project-grid .work-shot img{aspect-ratio:4/3}
+.project-grid .work-shot.portrait img{aspect-ratio:4/3}
+.work-shot.compact img{object-fit:contain;background:var(--wash);padding:24px}
 @media(max-width:1050px){.people{grid-template-columns:1fr 1fr}.people .person:last-child{grid-column:1/-1}}
-@media(max-width:900px){.people{grid-template-columns:1fr}.people .person:last-child{grid-column:auto}.work-gallery{grid-template-columns:1fr}}
+@media(max-width:900px){.people{grid-template-columns:1fr}.people .person:last-child{grid-column:auto}.work-gallery{grid-template-columns:1fr}.project-grid{grid-template-columns:1fr 1fr}}
+@media(max-width:570px){.project-grid{grid-template-columns:1fr}}

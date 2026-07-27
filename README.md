@@ -12,6 +12,8 @@ Expected live URL: https://juswrk.github.io/m-hub/
 - Lisa's current CV in PDF and editable Word formats
 - Image-led project galleries covering retail lighting, electrical fit-out,
   high-level access and completed shopfitting
+- Dedicated project archive organised into Electrical & Systems and Retail &
+  Shopfitting evidence
 - Marc CV and qualification evidence from the uploaded `Marc-H-Quals.zip`
 - Spencer qualification evidence available in the supplied assets
 - Cross-links to Juswrk, SiteGuard and MH-Control
@@ -21,3 +23,4 @@ The current uploaded qualification archive contains an older Marc CV named `Marc
 
 Lisa's profile uses the B&Q project image plus wider JusWrk retail-installation
 evidence. Marc's page includes electrical fit-out and completed-bay photography.
+The full image collection is available from `projects.html`.
