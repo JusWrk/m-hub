@@ -1,4 +1,4 @@
-# M-Hub v2.1
+# M-Hub v3 — Lisa profile refresh
 
 GitHub Pages ready. Upload the **contents** of this ZIP directly into the `m-hub` repository root.
 
@@ -8,9 +8,16 @@ Expected live URL: https://juswrk.github.io/m-hub/
 - Punchy image-led M-Hub homepage
 - Marc Harris capability profile
 - Spencer Shone capability profile
+- Lisa Shone capability profile with real B&Q project photography
+- Lisa's current CV in PDF and editable Word formats
+- Image-led project galleries covering retail lighting, electrical fit-out,
+  high-level access and completed shopfitting
 - Marc CV and qualification evidence from the uploaded `Marc-H-Quals.zip`
 - Spencer qualification evidence available in the supplied assets
 - Cross-links to Juswrk, SiteGuard and MH-Control
 
 ## Notes
 The current uploaded qualification archive contains an older Marc CV named `MarcHarrisCV_240905_092424.pdf`. Replace that file later if a newer CV is required. Spencer's newer CV was not present in the local uploaded ZIPs used for this build, so the profile deliberately does not pretend it is included.
+
+Lisa's profile uses the B&Q project image plus wider JusWrk retail-installation
+evidence. Marc's page includes electrical fit-out and completed-bay photography.
