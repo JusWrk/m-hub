@@ -1,4 +1,4 @@
-# M-Hub v3 — Lisa profile refresh
+# M-Hub v5 - Project archive and typography fix
 
 GitHub Pages ready. Upload the **contents** of this ZIP directly into the `m-hub` repository root.
 
@@ -24,3 +24,6 @@ The current uploaded qualification archive contains an older Marc CV named `Marc
 Lisa's profile uses the B&Q project image plus wider JusWrk retail-installation
 evidence. Marc's page includes electrical fit-out and completed-bay photography.
 The full image collection is available from `projects.html`.
+
+All page source is stored as UTF-8 without BOM. Visible timeline separators use
+plain ASCII characters for dependable rendering across browsers and fonts.
